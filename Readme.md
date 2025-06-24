@@ -1,9 +1,3 @@
-//doc
-
-Perfect! You're using the **Figma plugin that exports tokens as Tailwind-compatible CSS using the `@theme` directive** — a feature of **Tailwind CSS v4**. Let me explain and update your setup doc accordingly.
-
----
-
 ## 🧩 ShadCN UI + Figma Tokens Setup
 
 **With Tailwind CSS v4 + `@theme` directive**
